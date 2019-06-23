@@ -1,6 +1,6 @@
 import os
 import subprocess
-import re
+import regex as re
 
 
 def extract_song_snippet(generated_text):
